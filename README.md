@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Taiolamz
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning FrontEnd Development
+- 👀 I am a Frontend Software Engineer
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me hassanadefarati@gmail.com
 
