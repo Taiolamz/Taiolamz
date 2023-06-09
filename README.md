@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Taiolamz
-- 👀 I am a Frontend Software Engineer
+- 👀 I am an experienced Frontend Software Engineer
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me hassanadefarati@gmail.com
 
